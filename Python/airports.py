@@ -1,8 +1,8 @@
 airports = [
     {
-        "name": "Beijing Capital International Airport",
-        "code": "PEK",
-        "country": "China"
+        "name": "SVP Airport",
+        "code": "SVP",
+        "country": "India"
     },
     {
         "name": "Los Angeles International Airport",
